@@ -1,0 +1,22 @@
+Annotation	EV_Ali	EV_int	WCL_Ali	WCL_int
+Putative OPT family oligopeptide transporter of peptide and iron-siderophore	28251	28548	118904	-262297
+Putative OPT family oligopeptide transporter of peptide and iron-siderophore	454088	517978	127574	-316883
+Putative OPT family oligopeptide transporter of peptide and iron-siderophore	56734	421735	-15607	-0.537502
+Putative DUF11 domain-containing protein	428044	159109	-209437	-473379
+Putative DUF11 domain-containing protein	357618	352566	-0.0616016	-264415
+Putative DUF11 domain-containing protein	40933	334833	-141841	-0.131245
+Putative Peptidase_C1	599146	577184	155506	-355735
+Putative Peptidase_C1	67514	586041	191152	0
+Putative Peptidase_C1	593155	5032	-18728	0
+Putative Peptidase_C1	375615	257057	-187318	0
+Putative Peptidase_C1	454463	327672	-103284	0
+Putative Peptidase_C1	393318	31046	-486136	0
+Putative Peptidase_C1	465156	397367	0.929501	0
+Putative Peptidase_C1	3797	311491	-10616	0
+Putative Peptidase_C1	262584	445631	-1	0
+Putative DUF11 domain-containing protein	532193	331824	-187696	0
+Putative DUF11 domain-containing protein	518661	469844	0	-303369
+Putative DUF11 domain-containing protein	529684	425771	0	0
+Putative DUF11 domain-containing protein	0.869297	-0.126983	0	0
+Putative DUF11 domain-containing protein	0.669289	-148468	0	0
+Putative DUF11 domain-containing protein	0.861752	103757	0	0

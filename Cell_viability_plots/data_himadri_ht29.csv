@@ -1,0 +1,115 @@
+Strain;Replicate;Viability;Viability_Percent
+NTC;1;2.239;91.46
+NTC;2;2.454;100.25
+NTC;3;2.411;98.49
+NTC;4;2.352;96.08
+NTC;5;2.314;94.53
+NTC;6;2.713;110.83
+ETEC 0.1x 10^8;1;2.165;88.44
+ETEC 0.1x 10^8;2;2.374;96.98
+ETEC 0.1x 10^8;3;2.283;93.26
+ETEC 0.1x 10^8;4;2.033;83.05
+ETEC 0.1x 10^8;5;2.134;87.17
+ETEC 0.1x 10^8;6;2.205;90.07
+B. fragilis 0.1x 10^8;1;2.199;89.83
+B. fragilis 0.1x 10^8;2;2.538;103.68
+B. fragilis 0.1x 10^8;3;2.247;91.79
+B. fragilis 0.1x 10^8;4;2.257;92.2
+B. fragilis 0.1x 10^8;5;2.346;95.83
+B. fragilis 0.1x 10^8;6;2.124;86.76
+M. smithii ALI 0.1x 10^8;1;2.133;87.13
+M. smithii ALI 0.1x 10^8;2;2.516;102.78
+M. smithii ALI 0.1x 10^8;3;2.217;90.56
+M. smithii ALI 0.1x 10^8;4;2.022;82.6
+M. smithii ALI 0.1x 10^8;5;2.414;98.61
+M. smithii ALI 0.1x 10^8;6;2.112;86.27
+M. intestini 0.1x 10^8;1;2.163;88.36
+M. intestini 0.1x 10^8;2;2.303;94.08
+M. intestini 0.1x 10^8;3;2.397;97.92
+M. intestini 0.1x 10^8;4;2.232;91.18
+M. intestini 0.1x 10^8;5;2.217;90.56
+M. intestini 0.1x 10^8;6;2.631;107.48
+M. smithii GRAZ-2 0.1x 10^8;1;2.332;95.26
+M. smithii GRAZ-2 0.1x 10^8;2;2.368;96.73
+M. smithii GRAZ-2 0.1x 10^8;3;2.817;115.07
+M. smithii GRAZ-2 0.1x 10^8;4;2.116;86.44
+M. smithii GRAZ-2 0.1x 10^8;5;2.237;91.38
+M. smithii GRAZ-2 0.1x 10^8;6;2.34;95.59
+M. stadtmanae 0.1x 10^8;1;2.162;88.32
+M. stadtmanae 0.1x 10^8;2;2.306;94.2
+M. stadtmanae 0.1x 10^8;3;2.084;85.13
+M. stadtmanae 0.1x 10^8;4;2.063;84.27
+M. stadtmanae 0.1x 10^8;5;2.296;93.79
+M. stadtmanae 0.1x 10^8;6;2.049;83.7
+ETEC 1x 10^8;1;2.57;104.98
+ETEC 1x 10^8;2;2.485;101.51
+ETEC 1x 10^8;3;2.267;92.61
+ETEC 1x 10^8;4;2.383;97.34
+ETEC 1x 10^8;5;2.205;90.07
+ETEC 1x 10^8;6;2.139;87.38
+B. fragilis 1x 10^8;1;2.469;100.86
+B. fragilis 1x 10^8;2;2.55;104.17
+B. fragilis 1x 10^8;3;2.23;91.09
+B. fragilis 1x 10^8;4;2.488;101.63
+B. fragilis 1x 10^8;5;2.399;98
+B. fragilis 1x 10^8;6;2.294;93.71
+M. smithii ALI 1x 10^8;1;2.045;83.54
+M. smithii ALI 1x 10^8;2;2.125;86.81
+M. smithii ALI 1x 10^8;3;2.316;94.61
+M. smithii ALI 1x 10^8;4;2.221;90.73
+M. smithii ALI 1x 10^8;5;2.124;86.76
+M. smithii ALI 1x 10^8;6;2.325;94.98
+M. intestini 1x 10^8;1;2.14;87.42
+M. intestini 1x 10^8;2;2.59;105.8
+M. intestini 1x 10^8;3;2.361;96.45
+M. intestini 1x 10^8;4;2.279;93.1
+M. intestini 1x 10^8;5;2.225;90.89
+M. intestini 1x 10^8;6;2.118;86.52
+M. smithii GRAZ-2 1x 10^8;1;2.334;95.34
+M. smithii GRAZ-2 1x 10^8;2;2.42;98.86
+M. smithii GRAZ-2 1x 10^8;3;2.369;96.77
+M. smithii GRAZ-2 1x 10^8;4;2.305;94.16
+M. smithii GRAZ-2 1x 10^8;5;2.348;95.92
+M. smithii GRAZ-2 1x 10^8;6;2.053;83.86
+M. stadtmanae 1x 10^8;1;2.145;87.62
+M. stadtmanae 1x 10^8;2;2.395;97.83
+M. stadtmanae 1x 10^8;3;2.342;95.67
+M. stadtmanae 1x 10^8;4;2.323;94.89
+M. stadtmanae 1x 10^8;5;2.057;84.03
+M. stadtmanae 1x 10^8;6;2.115;86.4
+ETEC 10 x 10^8;1;2.541;103.8
+ETEC 10 x 10^8;2;2.824;115.36
+ETEC 10 x 10^8;3;2.545;103.96
+ETEC 10 x 10^8;4;2.238;91.42
+ETEC 10 x 10^8;5;2.268;92.65
+ETEC 10 x 10^8;6;2.444;99.84
+B. fragilis 10 x 10^8;1;2.269;92.69
+B. fragilis 10 x 10^8;2;2.832;115.69
+B. fragilis 10 x 10^8;3;2.263;92.44
+B. fragilis 10 x 10^8;4;2.19;89.46
+B. fragilis 10 x 10^8;5;2.26;92.32
+B. fragilis 10 x 10^8;6;2.365;96.61
+M. smithii ALI 10 x 10^8;1;2.274;92.89
+M. smithii ALI 10 x 10^8;2;2.088;85.29
+M. smithii ALI 10 x 10^8;3;2.28;93.14
+M. smithii ALI 10 x 10^8;4;2.238;91.42
+M. smithii ALI 10 x 10^8;5;2.044;83.5
+M. smithii ALI 10 x 10^8;6;2.102;85.87
+M. intestini 10 x 10^8;1;2.547;104.04
+M. intestini 10 x 10^8;2;2.695;110.09
+M. intestini 10 x 10^8;3;2.478;101.23
+M. intestini 10 x 10^8;4;2.349;95.96
+M. intestini 10 x 10^8;5;2.345;95.79
+M. intestini 10 x 10^8;6;2.262;92.4
+M. smithii GRAZ-2 10 x 10^8;1;2.242;91.58
+M. smithii GRAZ-2 10 x 10^8;2;2.685;109.68
+M. smithii GRAZ-2 10 x 10^8;3;2.63;107.43
+M. smithii GRAZ-2 10 x 10^8;4;2.214;90.44
+M. smithii GRAZ-2 10 x 10^8;5;2.266;92.57
+M. smithii GRAZ-2 10 x 10^8;6;2.33;95.18
+M. stadtmanae 10 x 10^8;1;2.346;95.83
+M. stadtmanae 10 x 10^8;2;2.657;108.54
+M. stadtmanae 10 x 10^8;3;2.308;94.28
+M. stadtmanae 10 x 10^8;4;2.125;86.81
+M. stadtmanae 10 x 10^8;5;2.275;92.93
+M. stadtmanae 10 x 10^8;6;2.194;89.62
