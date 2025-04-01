@@ -1,4 +1,4 @@
-Header: Archaeal_extracellular_vesicles
+## Archaeal_extracellular_vesicles
 
 The following data for the publication "Proteomic and metabolomic profiling of extracellular vesicles produced by human gut archaea" are made public:
 Folders contain R scripts and data tables for mentioned figures.
